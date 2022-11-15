@@ -5,5 +5,5 @@ dependencies:
 - name: cra-backend
   repository: file://../server/server-chart
   version: 0.1.0
-digest: sha256:c16bf7120fb93536a4e490766ed4c9b5317fdb31d7eebf08e3e65a0603628057
-generated: 2018-12-01T20:12:43.823413108+02:00
+digest: sha256:099344bc6d592a9ac530c4dbb0a0081683ae35ec9b09fee41c0b8b5ce5dc9dbf
+generated: "2022-11-15T20:03:13.736302212+05:30"
